@@ -62,3 +62,13 @@ Get an order summary details page once the payment is complete
 
 
 ![Screenshot (51)](https://github.com/yogesh-154/Medicare/assets/119795285/9de048ae-d9fa-44a5-ad30-518f6e83a492)
+
+
+
+![Screenshot (52)](https://github.com/yogesh-154/Medicare/assets/119795285/1e25c20c-9d51-4c43-8765-724785ebff15)
+
+![Screenshot (53)](https://github.com/yogesh-154/Medicare/assets/119795285/8b2c072c-9696-49e4-89ff-86d32c9a4ffc)
+
+![Screenshot (54)](https://github.com/yogesh-154/Medicare/assets/119795285/d0bd44ff-7510-4c6b-b279-30deb24ac14e)
+![Screenshot (55)](https://github.com/yogesh-154/Medicare/assets/119795285/2ee0b1bc-c963-4281-934c-36c95ef9ed09)
+![Screenshot (56)](https://github.com/yogesh-154/Medicare/assets/119795285/f3ae506d-b91f-417c-86cc-335f6e8fa9a1)
